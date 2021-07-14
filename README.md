@@ -12,7 +12,8 @@
 
 ```
 • Develop a migration approach to move workloads from On-Premises to AWS/Azure
-• Focusing on containerization and immutable infrastructure. Docker has been core to this experience, along with Docker swarm, ECS, EKS and Kubernetes
+• Focusing on containerization and immutable infrastructure. Docker has been core to this experience, along with Docker swarm, 
+ECS, EKS and Kubernetes
 • Architect, Design, Develop and Deliver large scale, robust and secure e-commerce mobile apps
 
 • Lead team of iOS, android, react-native, react-JS developers
@@ -23,7 +24,8 @@
 • Stake holder Management, Client handling, Client demo, communication with UX design, backend API and QA teams
 • Working closely with Product Management and development team to satisfy business requirements
 
-• Strong understanding & practical experience with MVC, MVVM architectural and other design patterns. Exploring VIPER with good understanding of SOLID principals and clean architecture
+• Strong understanding & practical experience with MVC, MVVM architectural and other design patterns. Exploring VIPER with good 
+understanding of SOLID principals and clean architecture
 • Experience in multi-threading (GCD, Operation Queues), data persistence with (Core Data and SQLite)
 • Good experience with tools like JIRA, GIT, Gitlab, continuous integration using Jenkins
 • Extended experience in Agile product development environment, Scrum ceremonies
